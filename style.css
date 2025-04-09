@@ -1,8 +1,12 @@
-#logo {
+#logo, h4 {
     max-width: fit-content;
     margin: auto;
 }
 
 blockquote {
     font-style: italic;
+}
+
+.sectionheader {
+    margin-top: 20pt;
 }
